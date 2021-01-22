@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "tsdx-test-project",
+  "name": "@krontill/sdk",
   "author": "Sergey Shcherba",
   "module": "dist/tsdx-test-project.esm.js",
   "size-limit": [
